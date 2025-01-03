@@ -10,7 +10,7 @@ I'm a dedicated student and aspiring data science passionate about exploring the
 and turning complex problems into actionable insights. Currently, I'm honing my skills in Python, 
 diving deep into data analysis, machine learning, and statistical modelling.
 
-🎓 Currently Preparing for university to study **`Software Engineering`** with a focus on **`data science`**
+🎓 An aspiring  **`Software Engineer`** with a long term goal on **`data science`**
 
 
 
