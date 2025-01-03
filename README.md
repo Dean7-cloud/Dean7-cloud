@@ -1,9 +1,10 @@
 # ☁ DeanCloud 
 
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%Software%Scientist;for%&font=Fira%20Code&center=true&width=440&height=45&color=1f6feb&vCenter=true&pause=1000&size=22" />
-  </a>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=1f6feb&vCenter=true&pause=1000&size=22" />
+</a>
+
 </p>
  
 I'm a dedicated student and aspiring data science passionate about exploring the world of data 🌎 
